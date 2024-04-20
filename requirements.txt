@@ -1,0 +1,7 @@
+fastapi[all]
+python-dotenv
+kafka-python==2.0.2
+SQLAlchemy==2.0.23
+psycopg2-binary==2.9.9
+alembic==1.12.1
+pydantic-settings
